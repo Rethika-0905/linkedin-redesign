@@ -35,7 +35,7 @@ To revamp the LinkedIn mobile app with a clean, modern interface focused on impr
 ## 📽️ Demo Preview
 
 🎥 Click below to watch the redesigned prototype in action:  
-[▶️ View Demo Video](./linkedin.mp4)
+[[▶️ View Demo Video](./linkedin.mp4)](https://github.com/user-attachments/assets/2a27ff83-2495-4ab1-9add-c2a246f4ea27)
 
 
 ## 💡 Key Highlights
