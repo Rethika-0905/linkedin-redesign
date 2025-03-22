@@ -29,7 +29,7 @@ To revamp the LinkedIn mobile app with a clean, modern interface focused on impr
 - Post Creation Screen
 
 📷 Design Preview:  
-![LinkedIn Redesign](./Screenshot%202025-03-08%20085740.png)
+![Image](https://github.com/user-attachments/assets/3f8620f3-d7df-4c36-8b88-8a797d7b2159)
 
 
 ## 📽️ Demo Preview
